@@ -1,16 +1,17 @@
+
 <template>
     <div class="esperienza">
         <div class="row">
             <div class="col">
-                <h1>ESPERIENZA LAVORATIVA</h1>
+                <h1>{{ $t("workExperiences.title") }}</h1>
             </div>
         </div>
         <div class="row">
             <div class="card-work green-blue">
                 <div class="card-work-header green-blue">
-                    <h2>IT Specialist</h2>
-                    <h3>TDA s.r.l.</h3>
-                    <h4>11/07/2019 – OGGI</h4>
+                    <h2>{{ $t("workExperiences.workExperience1.title")}}</h2>
+                    <h3>{{ $t("workExperiences.workExperience1.company")}}</h3>
+                    <h4>{{ $t("workExperiences.workExperience1.date")}}</h4>
                 </div>
                 <div class="card-work-body">
                     <ul class="a">
@@ -20,7 +21,7 @@
                         <li>Gestione sistemi di telefonia Cisco Jabber e Microsoft Teams</li>
                         <li>Programmazione PLC Logo! Siemens</li>
                         <li>Mantenimento sistema informativo AS400</li>
-                        </ul>
+                    </ul>
                 </div>
             </div>
         </div>

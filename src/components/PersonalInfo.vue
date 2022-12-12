@@ -10,7 +10,7 @@
         <hr>
         <div class="contatti">
             <div class="row">
-                <h2>.{{ $t("contactsTitle") }}()</h2>
+                <h2>{{ $t("contacts.title") }}</h2>
             </div>
             <div class="row">
                 <h2>{</h2>
@@ -54,14 +54,14 @@
         <hr>
         <div class="lingue">
             <div class="row">
-                <h2>.Lingue()</h2>
+                <h2>{{ $t("languages.title") }}</h2>
             </div>
             <div class="row">
                 <h2>{</h2>
             </div>
             <div class="row ms-4">
                 <div class="col-4">
-                    <h4>Italiano</h4>
+                    <h4>{{ $t("languages.italian") }}</h4>
                 </div>
                 <div class="col">
                     <div class="progress">
@@ -71,7 +71,7 @@
             </div>
             <div class="row ms-4">
                 <div class="col-4">
-                    <h4>Inglese</h4>
+                    <h4>{{ $t("languages.english") }}</h4>
                 </div>
                 <div class="col">
                     <div class="progress">
@@ -86,7 +86,7 @@
         <hr>
         <div class="istruzione">
             <div class="row">
-                <h2>.Istruzione()</h2>
+                <h2>{{ $t("education.title") }}</h2>
             </div>
             <div class="row">
                 <h2>{</h2>
@@ -95,7 +95,7 @@
                 <h5>09/2012 – 06/2018</h5>
             </div>
             <div class="row ms-4">
-                <h3 style="font-weight: bold;">Diploma in Informatica e Telecomunicazioni</h3>
+                <h3 style="font-weight: bold;">{{ $t("education.diploma") }}</h3>
             </div>
             <div class="row ms-4">
                 <h4>Blaise Pascal Manerbio</h4>
@@ -107,7 +107,7 @@
         <hr>
         <div class="patente">
             <div class="row">
-                <h2>.Patente_di_guida()</h2>
+                <h2>{{ $t("driverLicences.title") }}</h2>
             </div>
             <div class="row">
                 <h2>{</h2>
@@ -124,16 +124,13 @@
         <hr>
         <div class="dati-personali">
             <div class="row">
-                <h2>.Trattramento_dei_dati</h2>
+                <h2>{{ $t("dataProcessing.title") }}</h2>
             </div>
             <div class="row">
                 <h2>{</h2>
             </div>
             <div class="row ms-4">
-                <i>Autorizzo il trattamento dei dati personali contenuti nel mio
-                    curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 del
-                    Regolamento UE 2016/679 relativo alla protezione delle persone
-                    fisiche con riguardo al trattamento dei dati personali</i>
+                <i>{{ $t("dataProcessing.description")}}</i>
             </div>
             <div class="row">
                 <h2>}</h2>

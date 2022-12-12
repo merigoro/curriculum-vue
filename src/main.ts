@@ -23,20 +23,16 @@ library.add(faBasketball, faPhone, faEnvelope, faLocationDot, faLinkedin)
 
 import './assets/main.css'
 
+import { languages, defaultLocale } from './locales/index.js'
+const messages = Object.assign(languages)
+
 const i18n = createI18n({
     legacy: false,
     globalInjection: true,
-    locale: "en",
+    locale: defaultLocale,
     fallbackLocale: "it",
     availableLocales: ["en", "it"],
-    messages: {
-        en: {
-            contactsTitle: "Contacts"
-        },
-        it: {
-            contactsTitle: 'Contatti'
-        }
-      }
+    messages: languages
 })
 
 createApp(App)

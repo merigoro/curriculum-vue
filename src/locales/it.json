@@ -1,0 +1,35 @@
+{
+    "contacts":{
+        "title": ".Contatti()"
+    },
+    "languages": {
+        "title" : ".Lingue()",
+        "italian": "Italiano",
+        "english": "Inglese"
+    },
+    "education":{
+        "title": ".Istruzione()",
+        "diploma": "Diploma in Informatica e Telecomunicazioni"
+    },
+    "driverLicences":{
+        "title": ".Patente_di_guida()"
+    },
+    "dataProcessing":{
+        "title": ".Trattamento_dei_dati()",
+        "description": "Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 del Regolamento UE 2016/679 relativo alla protezione delle persone fisiche con riguardo al trattamento dei dati personali"
+    },
+    "workExperiences": {
+        "title": "ESPERIENZA LAVORATIVA",
+        "workExperience1":{
+            "title": "IT Specialist",
+            "company": "TDA s.r.l.",
+            "date": "11/07/2019 – OGGI",
+            "jobDuties":  "C# Developer"
+        }
+    },
+    "skills":{
+        "section1": ".Programmazione()",
+        "section2": ".Sistemi_operativi()",
+        "section3": ".Database()"
+    }
+}
