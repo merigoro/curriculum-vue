@@ -1,0 +1,37 @@
+
+:root{
+  --red: #f06a6a;
+  --orange: #e3886d;
+  --yellow-orange: #f1bd6c;
+  --blue-green:#4ecbc4;
+  --aqua-blue:#9ee7e3;
+  --blue:#4573d2;
+  --indigo:#8d84e8;
+  --purple:#b36bd4;
+  --magenta: #f9aaef;
+  --yellow-green: #aecf55;
+  --yellow: #f5ce29;
+  --light-grey: #374151;
+}
+
+body{
+  padding:0;
+  background-color: #1f2937;
+  font-family: Consolas, monospace;
+  color: white;
+  font-size:24px;
+  margin-bottom:50px;
+}
+.container{
+  letter-spacing: 0.1em;;
+}
+hr{
+  border-top: 5px solid;
+  border-radius: 5px;
+}
+.row{
+  margin:5px;
+}
+ul{
+  margin-bottom:0;
+}
