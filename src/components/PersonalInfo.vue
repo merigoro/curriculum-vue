@@ -10,7 +10,7 @@
         <hr>
         <div class="contatti">
             <div class="row">
-                <h2>.Contatti()</h2>
+                <h2>.{{ $t("contactsTitle") }}()</h2>
             </div>
             <div class="row">
                 <h2>{</h2>
