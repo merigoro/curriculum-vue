@@ -23,8 +23,27 @@
         "workExperience1":{
             "title": "IT Specialist",
             "company": "TDA s.r.l.",
-            "date": "11/07/2019 – OGGI",
-            "jobDuties":  "C# Developer"
+            "date": "11/07/2019 – 20/02/2023",
+            "jobDuties1":  "C# Developer",
+            "jobDuties2":  "ASP.NET Developer",
+            "jobDuties3":  "Gestione Database SQL",
+            "jobDuties4":  "Gestione sistemi di telefonia Cisco Jabber e Microsoft Teams",
+            "jobDuties5":  "Programmazione PLC Logo! Siemens",
+            "jobDuties6":  "Mantenimento sistema informativo AS400"
+        },
+        "workExperience2":{
+            "title": "Software Developer",
+            "company": "ATS s.r.l.",
+            "date": "11/02/2019 – 09/07/2019",
+            "jobDuties1":  "C++ Developer",
+            "jobDuties2":  "Programmazione centrali furto tramite framework QT",
+            "jobDuties3":  "Programmazione KNX tramite ETS5"
+        },
+        "workExperience3":{
+            "title": "Tecnico riparazioni motori elettrici",
+            "company": "Elettrotecnica Moratti s.r.l.",
+            "date": "17/08/2018 – 16/11/2018",
+            "jobDuties1":  "Manutenzione motori elettrici"
         }
     },
     "skills":{

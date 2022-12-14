@@ -15,12 +15,12 @@
                 </div>
                 <div class="card-work-body">
                     <ul class="a">
-                        <li>C# Developer</li>
-                        <li>ASP.NET Developer</li>
-                        <li>Gestione Database SQL</li>
-                        <li>Gestione sistemi di telefonia Cisco Jabber e Microsoft Teams</li>
-                        <li>Programmazione PLC Logo! Siemens</li>
-                        <li>Mantenimento sistema informativo AS400</li>
+                        <li>{{ $t("workExperiences.workExperience1.jobDuties1")}}</li>
+                        <li>{{ $t("workExperiences.workExperience1.jobDuties2")}}</li>
+                        <li>{{ $t("workExperiences.workExperience1.jobDuties3")}}</li>
+                        <li>{{ $t("workExperiences.workExperience1.jobDuties4")}}</li>
+                        <li>{{ $t("workExperiences.workExperience1.jobDuties5")}}</li>
+                        <li>{{ $t("workExperiences.workExperience1.jobDuties6")}}</li>
                     </ul>
                 </div>
             </div>
@@ -28,15 +28,15 @@
         <div class="row">
             <div class="card-work orange">
                 <div class="card-work-header orange">
-                    <h2>Software Developer</h2>
-                    <h3>ATS s.r.l.</h3>
-                    <h4>11/02/2019 – 09/07/2019 </h4>
+                    <h2>{{ $t("workExperiences.workExperience2.title")}}</h2>
+                    <h3>{{ $t("workExperiences.workExperience2.company")}}</h3>
+                    <h4>{{ $t("workExperiences.workExperience2.date")}}</h4>
                 </div>
                 <div class="card-work-body">
                     <ul class="a">
-                        <li>C++ Developer</li>
-                        <li>Programmazione centrali furto tramite framework QT</li>
-                        <li>Programmazione KNX tramite ETS5</li>
+                        <li>{{ $t("workExperiences.workExperience2.jobDuties1")}}</li>
+                        <li>{{ $t("workExperiences.workExperience2.jobDuties2")}}</li>
+                        <li>{{ $t("workExperiences.workExperience2.jobDuties3")}}</li>
                         </ul>
                 </div>
             </div>
@@ -44,13 +44,13 @@
         <div class="row">
             <div class="card-work indigo">
                 <div class="card-work-header indigo">
-                    <h2>Tecnico riparazioni motori elettrici</h2>
-                    <h3>Elettrotecnica Moratti s.r.l.</h3>
-                    <h4>17/08/2018 – 16/11/2018</h4>
+                    <h2>{{ $t("workExperiences.workExperience3.title")}}</h2>
+                    <h3>{{ $t("workExperiences.workExperience3.company")}}</h3>
+                    <h4>{{ $t("workExperiences.workExperience3.date")}}</h4>
                 </div>
                 <div class="card-work-body">
                     <ul class="a">
-                        <li>Manutenzione motori elettrici</li>
+                        <li>{{ $t("workExperiences.workExperience3.jobDuties1")}}</li>
                         </ul>
                 </div>
             </div>
