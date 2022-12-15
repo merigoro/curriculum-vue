@@ -1,13 +1,10 @@
-<template>
-    <select v-model="$i18n.locale" id="language">
-      <option v-for="locale in $i18n.availableLocales" :value="locale">{{ locale }}</option>
-    </select>
-</template>
+<script setup lang="ts">
+  import i18n from '../main'
+  const items : string[] = i18n.global.availableLocales
+</script>
 
-<style scoped>
-select{
-  margin-bottom:10px;
-  margin-top:10px;
-}
-</style>
-  
+<template>
+  <v-select v-model="$i18n.locale" 
+            :items="items">
+  </v-select>
+</template>

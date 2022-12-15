@@ -4,6 +4,13 @@ import { createI18n } from 'vue-i18n'
 
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap"
+
+// Vuetify
+import 'vuetify/styles'
+import { createVuetify } from 'vuetify'
+import * as components from 'vuetify/components'
+import * as directives from 'vuetify/directives'
+
 /* import the fontawesome core */
 import { library } from '@fortawesome/fontawesome-svg-core'
 
@@ -35,7 +42,15 @@ const i18n = createI18n({
     messages: languages
 })
 
+const vuetify = createVuetify({
+    components,
+    directives,
+  })
+
+export default i18n
+
 createApp(App)
 .component('font-awesome-icon', FontAwesomeIcon)
+.use(vuetify)
 .use(i18n)
 .mount('#app')
