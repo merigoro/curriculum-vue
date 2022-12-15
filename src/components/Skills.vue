@@ -50,6 +50,9 @@
 </template>
 
 <style scoped>
+.skills h1{
+    font-weight:900;
+}
 .skills h2{
     font-weight: bold;
 }

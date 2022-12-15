@@ -59,7 +59,7 @@
 </template>
 <style scoped>
 .experience h1{
-    font-weight: bold;
+    font-weight: 900;
 }
 .card-work{
     background-color: #fff;
