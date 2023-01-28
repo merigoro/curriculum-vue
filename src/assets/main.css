@@ -20,7 +20,7 @@
 @font-face {
   font-family: "Pixel";
   src: local("Pixel"),
-   url(../fonts/PublicPixel.ttf) format("truetype");
+   url(../fonts/ChillPixels-Mono.otf) format("truetype");
 }
 body{
   padding:0;
