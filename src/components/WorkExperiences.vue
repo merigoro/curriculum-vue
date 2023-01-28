@@ -20,7 +20,6 @@
                         <li>{{ $t("workExperiences.workExperience1.jobDuties3")}}</li>
                         <li>{{ $t("workExperiences.workExperience1.jobDuties4")}}</li>
                         <li>{{ $t("workExperiences.workExperience1.jobDuties5")}}</li>
-                        <li>{{ $t("workExperiences.workExperience1.jobDuties6")}}</li>
                     </ul>
                 </div>
             </div>

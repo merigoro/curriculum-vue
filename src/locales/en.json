@@ -21,15 +21,14 @@
     "workExperiences": {
         "title": "WORK EXPERIENCES",
         "workExperience1":{
-            "title": "IT Specialist",
+            "title": "Software Developer",
             "company": "TDA s.r.l.",
             "date": "11/07/2019 – 20/02/2023",
-            "jobDuties1":  "C# Developer",
-            "jobDuties2":  "ASP.NET Developer",
+            "jobDuties1":  "Backend developer with REST FULL API made with C#",
+            "jobDuties2":  "Frontend developer with ASP.NET, HTML, CSS, JAVASCRIPT ",
             "jobDuties3":  "SQL database management",
-            "jobDuties4":  "Management of Cisco Jabber and Microsoft Teams telephony systems",
-            "jobDuties5":  "Programmazione PLC Logo! Siemens",
-            "jobDuties6":  "Maintenance of the AS400 information system"
+            "jobDuties4":  "Help desk",
+            "jobDuties5":  "Maintenance of the AS400 information system"
         },
         "workExperience2":{
             "title": "Software Developer",
@@ -40,14 +39,14 @@
             "jobDuties3":  "KNX programming via ETS5"
         },
         "workExperience3":{
-            "title": "Electric motor repair technician",
-            "company": "Elettrotecnica Moratti s.r.l.",
-            "date": "17/08/2018 – 16/11/2018",
-            "jobDuties1":  "Electric motor maintenance"
+            "title": "Maintenance Technician",
+            "company": "ELETTRON s.r.l.",
+            "date": "01/05/2017 – 28/06/2018",
+            "jobDuties1":  "Maintenance technician of video surveillance systems"
         }
     },
     "skills":{
-        "section1": ".Tech_stack()",
+        "section1": ".Programming()",
         "section2": ".Operating_systems()",
         "section3": ".Database()"
     }

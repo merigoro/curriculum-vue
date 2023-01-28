@@ -16,6 +16,7 @@
                 <span class="badge badge-yellow-orange">SQL</span>
                 <span class="badge badge-aqua">CSS</span>
                 <span class="badge badge-orange">HTML</span>
+                <span class="badge badge-deep-purple">Bootstrap</span>
                 <span class="badge badge-blue-green">REST API</span>
                 <span class="badge badge-red">GIT</span>
                 <span class="badge badge-blue">C++</span>    
@@ -78,6 +79,9 @@
 }
 .badge-purple{
     background-color: var(--purple);
+}
+.badge-deep-purple{
+    background-color: var(--deep-purple);
 }
 .badge-blue{
     background-color: var(--blue);

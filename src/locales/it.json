@@ -21,15 +21,14 @@
     "workExperiences": {
         "title": "ESPERIENZA LAVORATIVA",
         "workExperience1":{
-            "title": "IT Specialist",
+            "title": "Software Developer",
             "company": "TDA s.r.l.",
             "date": "11/07/2019 – 20/02/2023",
-            "jobDuties1":  "C# Developer",
-            "jobDuties2":  "ASP.NET Developer",
+            "jobDuties1":  "Programmazione Backend di una REST FULL API con C#",
+            "jobDuties2":  "Programmazione Frontend con ASP.NET, HTML, CSS, JAVASCRIPT ",
             "jobDuties3":  "Gestione Database SQL",
-            "jobDuties4":  "Gestione sistemi di telefonia Cisco Jabber e Microsoft Teams",
-            "jobDuties5":  "Programmazione PLC Logo! Siemens",
-            "jobDuties6":  "Mantenimento sistema informativo AS400"
+            "jobDuties4":  "Help Desk",
+            "jobDuties5":  "Mantenimento sistema informativo AS400"
         },
         "workExperience2":{
             "title": "Software Developer",
@@ -40,10 +39,10 @@
             "jobDuties3":  "Programmazione KNX tramite ETS5"
         },
         "workExperience3":{
-            "title": "Tecnico riparazioni motori elettrici",
-            "company": "Elettrotecnica Moratti s.r.l.",
-            "date": "17/08/2018 – 16/11/2018",
-            "jobDuties1":  "Manutenzione motori elettrici"
+            "title": "Stagista Tecnico",
+            "company": "ELETTRON s.r.l.",
+            "date": "01/05/2017 – 28/06/2018",
+            "jobDuties1":  "Tecnico manutentore di impianti di videosorveglianza"
         }
     },
     "skills":{
