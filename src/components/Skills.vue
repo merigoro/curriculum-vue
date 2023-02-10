@@ -21,7 +21,7 @@
                 <span class="badge badge-red">GIT</span>
                 <span class="badge badge-blue">C++</span>    
                 <span class="badge badge-yellow">Javascript</span>
-                <span class="badge badge-green">Vue.js</span>         
+                <span class="badge badge-dark-red">Angular</span>         
 
             </div>
         </div>
@@ -70,6 +70,9 @@
 }
 .badge-red{
     background-color: var(--red);
+}
+.badge-dark-red{
+    background-color: var(--dark-red);
 }
 .badge-yellow-orange{
     background-color: var(--yellow-orange);
