@@ -144,7 +144,7 @@
         font-weight: bold;
     }
     .user-info h2{
-        font-size: 2rem;
+        font-size: 1.8rem;
         font-weight: bold;
         color:var(--yellow-green)
     }
@@ -153,7 +153,7 @@
     }
     .contatti h4{
     font-weight: bold;
-    font-size:1.4rem;
+    font-size:1.3rem;
     }
     .progress{
         border-radius: 2em;
