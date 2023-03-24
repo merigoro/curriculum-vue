@@ -20,7 +20,7 @@
                     <font-awesome-icon icon="fa-solid fa-phone" />
                 </div>
                 <div class="col-8">
-                    <h4>3342637663</h4>
+                    <h4>+39 3342637663</h4>
                 </div>
             </div>
             <div class="row ms-4">
