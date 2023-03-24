@@ -44,7 +44,7 @@
                     <font-awesome-icon icon="fa-solid fa-location-dot" />
                 </div>
                 <div class="col-8">
-                    <h4>Ghedi (BS)</h4>
+                    <h4>Dublin</h4>
                 </div>
             </div>
             <div class="row">

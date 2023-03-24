@@ -7,13 +7,13 @@ import LocaleSelector from './components/LocaleSelector.vue'
 <template>
   <body>
     <div class="container-fluid">
-      <header>
+      <!-- <header>
         <div class="row">
           <div class="col-1">
             <LocaleSelector></LocaleSelector>
           </div>
         </div>
-      </header>
+      </header> -->
       <div class="row">
         <PersonalInfo></PersonalInfo>
         <Experiences></Experiences>
