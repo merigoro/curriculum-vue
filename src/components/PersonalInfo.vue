@@ -1,5 +1,5 @@
 <template>
-    <div class="col-4 user-info" style="background-color:#121821">
+    <div class="col-4 user-info">
         <div class="row">
             <div class="col text-center">
                 <h1>Roberto</h1>
@@ -37,6 +37,14 @@
                 </div>
                 <div class="col-8">
                     <h4>www.linkedin.com/in/roberto-merigo</h4>
+                </div>
+            </div>
+            <div class="row ms-4">
+                <div class="col-1">
+                    <font-awesome-icon icon="fa-brands fa-github"/>
+                </div>
+                <div class="col-8">
+                    <h4>github.com/merigoro</h4>
                 </div>
             </div>
             <div class="row ms-4">
@@ -140,7 +148,12 @@
 </template>
 
 <style scoped>
-    .user-info h1{
+.user-info{
+    background-color:#121821;
+    border-radius: 20px;
+    margin-top:15px;
+}
+.user-info h1{
         font-weight: bold;
     }
     .user-info h2{

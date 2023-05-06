@@ -22,10 +22,10 @@ import { faBasketball } from '@fortawesome/free-solid-svg-icons'
 import { faPhone } from '@fortawesome/free-solid-svg-icons'
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
-import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
 
 /* add icons to the library */
-library.add(faBasketball, faPhone, faEnvelope, faLocationDot, faLinkedin)
+library.add(faBasketball, faPhone, faEnvelope, faLocationDot, faLinkedin, faGithub)
 
 
 import './assets/main.css'
