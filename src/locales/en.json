@@ -11,6 +11,10 @@
         "title": ".Education()",
         "diploma": "Diploma in Computer Science and Telecommunications"
     },
+    "courses":{
+        "title": ".Courses()",
+        "description": "Intensive English Course in Dublin with Kaplan"
+    },
     "driverLicences":{
         "title": ".Driver_license()"
     },

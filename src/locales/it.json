@@ -11,6 +11,10 @@
         "title": ".Istruzione()",
         "diploma": "Diploma in Informatica e Telecomunicazioni"
     },
+    "courses":{
+        "title": ".Corsi()",
+        "description": "Corso intensivo di inglese a Dublino con Kaplan"
+    },
     "driverLicences":{
         "title": ".Patente_di_guida()"
     },

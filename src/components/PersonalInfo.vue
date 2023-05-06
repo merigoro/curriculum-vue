@@ -83,7 +83,7 @@
                 </div>
                 <div class="col">
                     <div class="progress">
-                        <div class="progress-bar english" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                        <div class="progress-bar english" role="progressbar" style="width: 60%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
                     </div>
                 </div>
             </div>
@@ -107,6 +107,21 @@
             </div>
             <div class="row ms-4">
                 <h4>Blaise Pascal Manerbio</h4>
+            </div>
+            <div class="row">
+                <h2>}</h2>
+            </div>
+        </div>
+        <hr>
+        <div class="courses">
+            <div class="row">
+                <h2>{{ $t("courses.title") }}</h2>
+            </div>
+            <div class="row">
+                <h2>{</h2>
+            </div>
+            <div class="row ms-4">
+                <h4>{{ $t("courses.description") }}</h4>
             </div>
             <div class="row">
                 <h2>}</h2>
@@ -154,40 +169,40 @@
     margin-top:15px;
 }
 .user-info h1{
-        font-weight: bold;
-    }
-    .user-info h2{
-        font-size: 1.8rem;
-        font-weight: bold;
-        color:var(--yellow-green)
-    }
-    .user-info h4{
-        font-size: 1.6rem;;
-    }
-    .contatti h4{
     font-weight: bold;
-    font-size:1.3rem;
-    }
-    .progress{
-        border-radius: 2em;
-        background-color: var(--light-grey);
-    }
-    .progress-bar{
-        border-radius: 2em;
-    }
-    .lingue h4{
-        font-weight: bold;
-    }
-    .italy{
-        background-color: var(--red);
-    }
-    .english{
-        background-color: var(--blue);
-    }
-    .patente li{
-        font-weight: bold;
-    }
-    .dati-personali i{
-    font-size:1.2rem;
-    }
+}
+.user-info h2{
+    font-size: 1.8rem;
+    font-weight: bold;
+    color:var(--yellow-green)
+}
+.user-info h4{
+    font-size: 1.6rem;;
+}
+.contatti h4{
+font-weight: bold;
+font-size:1.3rem;
+}
+.progress{
+    border-radius: 2em;
+    background-color: var(--light-grey);
+}
+.progress-bar{
+    border-radius: 2em;
+}
+.lingue h4{
+    font-weight: bold;
+}
+.italy{
+    background-color: var(--red);
+}
+.english{
+    background-color: var(--blue);
+}
+.patente li{
+    font-weight: bold;
+}
+.dati-personali i{
+    font-size:0.8rem;
+}
 </style>
