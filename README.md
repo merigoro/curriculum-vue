@@ -1,6 +1,6 @@
-# curriculum-vue
+# Curriculum
 
-This template should help get you started developing with Vue 3 in Vite.
+When I had to use a curriculum creation editor I always felt frustrated by the limitations imposed and since the only world I know where there are no constraints for creation is programming I created my curriculum with Vue.
 
 ## Recommended IDE Setup
 
