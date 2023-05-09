@@ -1,5 +1,7 @@
 # Curriculum
 
+Hello World
+
 When I had to use a curriculum creation editor I always felt frustrated by the limitations imposed and since the only world I know where there are no constraints for creation is programming I created my curriculum with Vue.
 
 ## Recommended IDE Setup
