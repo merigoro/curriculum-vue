@@ -10,11 +10,11 @@
             </div>
             <div class="col text-center">
                 <font-awesome-icon icon="fa-solid fa-basketball" />
-                <h4>Basket</h4>
+                <h4>Basketball</h4>
             </div>
             <div class="col text-center">
                 <img src="../assets/images/snowboarder.png" style="width:3em"/>
-                <h4>Snowboard</h4>
+                <h4>Snowboarding</h4>
             </div>
         </div>
     </div>
